@@ -1,0 +1,30 @@
+<html>
+<head>
+<title> My 4th html</title>
+</head>
+<body>
+才離開就想念了<br>
+<br>
+喜歡小琉球的心情<br>
+<br>
+就算旅行過很多次<br>
+<br>
+但還是帶回了不一樣的滿滿難忘體驗<br>
+<br>
+1天暢玩小琉球，會非常充實<br>
+<br>
+2天一夜慢慢玩，比較有意思<br>
+<br>
+而我，喜歡用緩慢自在的態度開心玩<br>
+<br>
+那你呢？<br>
+<br>
+下回準備就到小琉球來玩吧^_^<p>
+
+<img src="images/4st.jpg"height=500 width=500>
+<a href="index.html">連到首頁</a>
+<a href="2nd.html">連到第2頁</a>
+<a href="3rd.html">連到第3頁</a>
+<audio src="media/001.mp3" controls />
+</body>
+</html>
